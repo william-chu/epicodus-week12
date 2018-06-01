@@ -20,15 +20,12 @@ Client requirements:
 
 ## Research + Brand Identity & Ideation
 
-* Feel, fun, bright and quirky. Inspiration from Fab.com artwork.
+* Feel, modern, bright and quirky. Inspiration from Fab.com artwork.
 
 | Geometric Design | Bright Colors | Genre Mismatch |
 | ---------------- | ------------- | -------------- |
-| Geometric Fold by Haanmade<br>![Geometric Fold by Haanmade](https://github.com/william-chu/epicodus-week12/blob/master/Inspiration/GeometricFold.png?raw=true)<br>
-Cosmic Breakfast by Daniel Aristizábal<br>![Cosmic Breakfast by Daniel Aristizábal](https://github.com/william-chu/epicodus-week12/blob/master/Inspiration/CosmicBreakfast.png?raw=true) | Puppermint
-by Domenic Bahmann ![Puppermint by Domenic Bahmann]() Welcome to Paradise 2
-by Brian Biles ![Welcome to Paradise 2
-by Brian Biles]() |  |
+| Geometric Fold<br>by Haanmade![Geometric Fold by Haanmade](https://github.com/william-chu/epicodus-week12/blob/master/Inspiration/GeometricFold.png?raw=true) | Puppermint<br>by Domenic Bahmann ![Puppermint by Domenic Bahmann](https://github.com/william-chu/epicodus-week12/blob/master/Inspiration/Puppermint.png?raw=true) | Robo Hawks<br>by Eric Joyner ![Robo Hawks by Eric Joyner](https://github.com/william-chu/epicodus-week12/blob/master/Inspiration/RoboHawks.png?raw=true)|
+| Cosmic Breakfast<br>by Daniel Aristizábal ![Cosmic Breakfast by Daniel Aristizábal](https://github.com/william-chu/epicodus-week12/blob/master/Inspiration/CosmicBreakfast.png?raw=true) | Welcome to Paradise 2<br>by Brian Biles ![Welcome to Paradise 2 by Brian Biles](https://github.com/william-chu/epicodus-week12/blob/master/Inspiration/WelcometoParadise2.png?raw=true) | Llama<br>by Ali Gulec ![Llama by Ali Gulec](https://github.com/william-chu/epicodus-week12/blob/master/Inspiration/Llama.png?raw=true) |
 
 ## Setup/Instructions
 
