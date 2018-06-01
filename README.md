@@ -1,4 +1,4 @@
-# PDXPAD - Coworking Concept
+# PDXPOD - Coworking Concept
 
 #### By William Chu
 
@@ -36,13 +36,13 @@ Artwork taken from Fab.com
 
 | Slogan | Messaging |
 | ------ | ------- |
-| "Just another coworking space? Tech No." | Invitation to potential PDXPAD clientele that may be turned off by a majority makeup of tech workers |
-| "A Workspace for the Rest of Us" | Emphasizes PDXPAD's desire to cater to a diverse community of creators |
-| "Coworking for Our Community" | PDXPAD wants to be part of the community to build loyalty amongst its members. This message can be used in conjunction with highlighting other local businesses or philanthropic activity that supports Portland, OR |
+| "Just another coworking space? Tech No." | Invitation to potential PDXPOD clientele that may be turned off by a majority makeup of tech workers |
+| "A Workspace for the Rest of Us" | Emphasizes PDXPOD's desire to cater to a diverse community of creators |
+| "Coworking for Our Community" | PDXPOD wants to be part of the community to build loyalty amongst its members. This message can be used in conjunction with highlighting other local businesses or philanthropic activity that supports Portland, OR |
 
 #### Organizations to Emulate:
 
-PDXPAD is trying to differentiate itself from WeWork and other coworking spaces. To carve its own niche in the market, I believe they should be analyzing the business models and branding used by other local businesses that focus on serving clientele for specific crafts.
+PDXPOD is trying to differentiate itself from WeWork and other coworking spaces. To carve its own niche in the market, I believe they should be analyzing the business models and branding used by other local businesses that focus on serving clientele for specific crafts.
 
 | ADX | Radius Art Studio |
 | --- | ----------------- |
