@@ -30,6 +30,7 @@ Inspiration from Fab.com artwork.
 | ---------------- | ------------- | -------------- |
 | Geometric Fold<br>by Haanmade![Geometric Fold by Haanmade](https://github.com/william-chu/epicodus-week12/blob/master/Inspiration/GeometricFold.png?raw=true) | Puppermint<br>by Domenic Bahmann ![Puppermint by Domenic Bahmann](https://github.com/william-chu/epicodus-week12/blob/master/Inspiration/Puppermint.png?raw=true) | Robo Hawks<br>by Eric Joyner ![Robo Hawks by Eric Joyner](https://github.com/william-chu/epicodus-week12/blob/master/Inspiration/RoboHawks.png?raw=true)|
 | Cosmic Breakfast<br>by Daniel Aristizábal ![Cosmic Breakfast by Daniel Aristizábal](https://github.com/william-chu/epicodus-week12/blob/master/Inspiration/CosmicBreakfast.png?raw=true) | Welcome to Paradise 2<br>by Brian Biles ![Welcome to Paradise 2 by Brian Biles](https://github.com/william-chu/epicodus-week12/blob/master/Inspiration/WelcometoParadise2.png?raw=true) | Llama<br>by Ali Gulec ![Llama by Ali Gulec](https://github.com/william-chu/epicodus-week12/blob/master/Inspiration/Llama.png?raw=true) |
+| Typography Inspiration ![30 Minutes to Mars Type](https://github.com/william-chu/epicodus-week12/blob/master/Inspiration/Typography.png?raw=true) |
 
 #### Verbal Branding
 
