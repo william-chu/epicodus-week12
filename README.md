@@ -21,7 +21,7 @@ Client requirements:
 ## Research + Brand Identity & Ideation
 
 #### Brand Feel: modern, bright and quirky.
-Inspiration from Fab.com artwork.
+Artwork taken from Fab.com
   * Geometric Design for clean modern lines matching interior design aesthetic
   * Bright Colors to evoke feeling of fresh and different feeling from corporate competitors
   * Genre Mismatch creates a modern aesthetic and mixing of mediums to symbolize diversity of clientele
@@ -30,7 +30,7 @@ Inspiration from Fab.com artwork.
 | ---------------- | ------------- | -------------- |
 | Geometric Fold<br>by Haanmade![Geometric Fold by Haanmade](https://github.com/william-chu/epicodus-week12/blob/master/Inspiration/GeometricFold.png?raw=true) | Puppermint<br>by Domenic Bahmann ![Puppermint by Domenic Bahmann](https://github.com/william-chu/epicodus-week12/blob/master/Inspiration/Puppermint.png?raw=true) | Robo Hawks<br>by Eric Joyner ![Robo Hawks by Eric Joyner](https://github.com/william-chu/epicodus-week12/blob/master/Inspiration/RoboHawks.png?raw=true)|
 | Cosmic Breakfast<br>by Daniel Aristizábal ![Cosmic Breakfast by Daniel Aristizábal](https://github.com/william-chu/epicodus-week12/blob/master/Inspiration/CosmicBreakfast.png?raw=true) | Welcome to Paradise 2<br>by Brian Biles ![Welcome to Paradise 2 by Brian Biles](https://github.com/william-chu/epicodus-week12/blob/master/Inspiration/WelcometoParadise2.png?raw=true) | Llama<br>by Ali Gulec ![Llama by Ali Gulec](https://github.com/william-chu/epicodus-week12/blob/master/Inspiration/Llama.png?raw=true) |
-| Typography Inspiration ![30 Minutes to Mars Type](https://github.com/william-chu/epicodus-week12/blob/master/Inspiration/Typography.png?raw=true) |
+| Typography Inspiration<br>30 Minutes to Mars<br>by Rich McNabb ![30 Minutes to Mars Type by Rich McNabb](https://github.com/william-chu/epicodus-week12/blob/master/Inspiration/Typography.png?raw=true) | Married To The Game<br>by Daniel Aristizábal ![Married To The Game by Daniel Aristizábal](https://github.com/william-chu/epicodus-week12/blob/master/Inspiration/MarriedToTheGame.png?raw=true)| Flawless<br>by Javier Jaén ![Flawless by Javier Jaén](https://github.com/william-chu/epicodus-week12/blob/master/Inspiration/Flawless.png?raw=true)
 
 #### Verbal Branding
 
