@@ -18,6 +18,15 @@ Client requirements:
 
 * "It should also be easy to see what amenities we have. We have an on-site coffee counter, both communal working areas and private offices, high-speed internet, printing and faxing services, and we usually have a fun, optional activity on Thursday afternoons. Like yoga, maybe a fun complementary food, or like...I don't know, a craft or something?"
 
+## Research + Brand Identity & Ideation
+
+* Feel, fun, bright and quirky. Inspiration from Fab.com artwork.
+
+| Geometric Design | Bright Colors | Genre Mismatch |
+| ---------------- | ------------- | -------------- |
+| Geometric Fold by Haanmade<br>[!Geometric Fold by Haanmade]()<br>
+Cosmic Breakfast by Daniel Aristizábal<br>[!Cosmic Breakfast by Daniel Aristizábal] | 
+
 ## Setup/Instructions
 
 ## Outline
