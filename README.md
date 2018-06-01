@@ -24,8 +24,11 @@ Client requirements:
 
 | Geometric Design | Bright Colors | Genre Mismatch |
 | ---------------- | ------------- | -------------- |
-| Geometric Fold by Haanmade<br>[!Geometric Fold by Haanmade]()<br>
-Cosmic Breakfast by Daniel Aristizábal<br>[!Cosmic Breakfast by Daniel Aristizábal] | 
+| Geometric Fold by Haanmade<br>![Geometric Fold by Haanmade](https://github.com/william-chu/epicodus-week12/blob/master/Inspiration/GeometricFold.png?raw=true)<br>
+Cosmic Breakfast by Daniel Aristizábal<br>![Cosmic Breakfast by Daniel Aristizábal](https://github.com/william-chu/epicodus-week12/blob/master/Inspiration/CosmicBreakfast.png?raw=true) | Puppermint
+by Domenic Bahmann ![Puppermint by Domenic Bahmann]() Welcome to Paradise 2
+by Brian Biles ![Welcome to Paradise 2
+by Brian Biles]() |  |
 
 ## Setup/Instructions
 
