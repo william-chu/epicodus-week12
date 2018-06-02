@@ -23,8 +23,8 @@ Client requirements:
 #### Brand Feel: modern, bright and quirky.
 Artwork taken from Fab.com
   * Geometric Design for clean modern lines matching interior design aesthetic
-  * Bright Colors to evoke feeling of fresh and different feeling from corporate competitors
-  * Genre Mismatch creates a modern aesthetic and mixing of mediums to symbolize diversity of clientele
+  * Bright Colors to evoke feeling of fresh and different compared to more corporate competitors
+  * Genre Mismatch creating a modern aesthetic by combining styles in unconventional ways to represent diversity of clientele
 
 | Geometric Design | Bright Colors | Genre Mismatch |
 | ---------------- | ------------- | -------------- |
