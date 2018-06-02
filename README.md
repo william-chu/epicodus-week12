@@ -18,7 +18,7 @@ Client requirements:
 
 * "It should also be easy to see what amenities we have. We have an on-site coffee counter, both communal working areas and private offices, high-speed internet, printing and faxing services, and we usually have a fun, optional activity on Thursday afternoons. Like yoga, maybe a fun complementary food, or like...I don't know, a craft or something?"
 
-## Research + Brand Identity & Ideation
+## Research, Brand Identity & Ideation
 
 #### Brand Feel: modern, bright and quirky.
 Artwork taken from Fab.com
@@ -50,9 +50,20 @@ PDXPOD is trying to differentiate itself from WeWork and other coworking spaces.
 
 ## Setup/Instructions
 
+* Clone repository from https://github.com/william-chu/epicodus-week12
+* Open project folder > Wireframes > PDXPOD.sketch to view wireframes
+
 ## Outline
+![Drafts](https://github.com/william-chu/epicodus-week12/blob/master/Wireframes/Draft.jpg?raw=true)
 
 ## Sketch Screenshots
+
+| Mobile Wireframes | Homepage Wireframes |
+| ----------------- | ------------------- |
+| ![Mobile Wireframes](https://github.com/william-chu/epicodus-week12/blob/master/Wireframes/MobileWireframes.png?raw=true) | ![Homepage Wireframes](https://github.com/william-chu/epicodus-week12/blob/master/Wireframes/WireframeScreenshots.png?raw=true) |
+
+
+
 
 ## Technologies Used
 
