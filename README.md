@@ -46,7 +46,7 @@ PDXPOD is trying to differentiate itself from WeWork and other coworking spaces.
 
 | ADX | Radius Art Studio |
 | --- | ----------------- |
-| Local coworking space for carpentry, metalworking and printing<br>https://adxportland.com/<br><br> ![ADX](https://github.com/william-chu/epicodus-week12/blob/master/Inspiration/ADX.png?raw=true) | Communal art studio focused on ceramics, painting and printmaking<br>https://www.radiusstudio.org/<br><br> ![Radius Art Studio](https://github.com/william-chu/epicodus-week12/blob/master/Inspiration/RadiusArtStudio.png?raw=true) |
+| Local coworking space for carpentry, metalworking and printing<br>https://adxportland.com/<br><br> ![ADX](https://github.com/william-chu/epicodus-week12/blob/master/Inspiration/ADXPortland.png?raw=true) | Communal art studio focused on ceramics, painting and printmaking<br>https://www.radiusstudio.org/<br><br> ![Radius Art Studio](https://github.com/william-chu/epicodus-week12/blob/master/Inspiration/RadiusArtStudio.png?raw=true) |
 
 ## Setup/Instructions
 
