@@ -3,9 +3,13 @@ $themeColor-Dark: #b68d4c;
 $theme-font: verdana, sans-serif;
 
 body {
-  font: $theme-font;
-  background-color: $themeColor-Light;
-  h1, h2 {
-    color: $themeColor-Dark
-  }
+  height: 100%;
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("https://github.com/william-chu/epicodus-week12/blob/master/Inspiration/Entrance.png?raw=true ");
+  background-position: center;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-attachment: fixed;
 }
