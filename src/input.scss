@@ -13,3 +13,23 @@ body {
   background-size: cover;
   background-attachment: fixed;
 }
+
+.logo-primary {
+  display: block;
+  margin: auto;
+  width: 130px;
+}
+
+@media (min-width: 500px) {
+  .logo-primary {
+    width: 150px;
+  }
+}
+
+@media (min-width: 900px) {
+  .logo-primary {
+    display: inherit;
+    margin: inherit;
+    width: 200px;
+  }
+}
