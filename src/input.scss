@@ -20,6 +20,16 @@ body {
   width: 130px;
 }
 
+.top-button-flex {
+  display: flex;
+  justify-content: space-between;
+  margin: 50px 30px;
+
+  img:hover {
+    cursor: pointer;
+  }
+}
+
 @media (min-width: 500px) {
   .logo-primary {
     width: 150px;
@@ -31,5 +41,9 @@ body {
     display: inherit;
     margin: inherit;
     width: 200px;
+  }
+
+  .top-button-flex {
+    display: none;
   }
 }
