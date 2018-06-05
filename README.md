@@ -36,9 +36,9 @@ Artwork taken from Fab.com
 
 | Slogan | Messaging |
 | ------ | ------- |
-| "Just another coworking space? Tech No." | Invitation to potential PDXPOD clientele that may be turned off by a majority makeup of tech workers |
+| "A Different Kind of Workspace." | Invitation to potential PDXPOD clientele that may be turned off by a majority makeup of tech workers |
 | "A Workspace for the Rest of Us" | Emphasizes PDXPOD's desire to cater to a diverse community of creators |
-| "Coworking for Our Community" | PDXPOD wants to be part of the community to build loyalty amongst its members. This message can be used in conjunction with highlighting other local businesses or philanthropic activity that supports Portland, OR |
+| "Coworking for the Community" | PDXPOD wants to be part of the community to build loyalty amongst its members. This message can be used in conjunction with highlighting other local businesses or philanthropic activity that supports Portland, OR |
 
 #### Organizations to Emulate:
 
@@ -58,9 +58,12 @@ PDXPOD is trying to differentiate itself from WeWork and other coworking spaces.
 
 ## Sketch Screenshots
 
-| Mobile Wireframes | Homepage Wireframes |
-| ----------------- | ------------------- |
-| ![Mobile Wireframes](https://github.com/william-chu/epicodus-week12/blob/master/Wireframes/MobileWireframes.png?raw=true) | ![Homepage Wireframes](https://github.com/william-chu/epicodus-week12/blob/master/Wireframes/WireframeScreenshots.png?raw=true) |
+##### Mobile Wireframe
+![Mobile Wireframe](https://github.com/william-chu/epicodus-week12/blob/master/Wireframes/MobileWireframesNew.png?raw=true)<br>
+##### Mobile Prototype
+![Mobile Prototype](https://github.com/william-chu/epicodus-week12/blob/master/Wireframes/Prototype.png?raw=true)<br>
+##### Homepage Wireframe
+![Homepage Wireframe](https://github.com/william-chu/epicodus-week12/blob/master/Wireframes/WireframeScreenshotsNew.png?raw=true)
 
 
 
