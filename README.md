@@ -4,7 +4,7 @@
 
 ## Description
 
-A project to sketch, wireframe, prototype and build a website for a mock cowork company.
+A project to sketch, wireframe, prototype and build a website for a mock coworking company.
 
 Client requirements:
 
@@ -18,9 +18,30 @@ Client requirements:
 
 * "It should also be easy to see what amenities we have. We have an on-site coffee counter, both communal working areas and private offices, high-speed internet, printing and faxing services, and we usually have a fun, optional activity on Thursday afternoons. Like yoga, maybe a fun complementary food, or like...I don't know, a craft or something?"
 
-## Research, Brand Identity & Ideation
+## Setup/Instructions
 
-#### Brand Feel: modern, bright and quirky.
+* Clone repository from https://github.com/william-chu/epicodus-week12
+* Open project folder > Wireframes > PDXPOD.sketch to view wireframes
+
+## Outline
+![Drafts](https://github.com/william-chu/epicodus-week12/blob/master/Wireframes/Draft.jpg?raw=true)
+
+## Sketch Screenshots
+
+##### Homepage Wireframe
+![Homepage Wireframe](https://github.com/william-chu/epicodus-week12/blob/master/Wireframes/WireframeScreenShotsNew.png?raw=true)
+##### Mobile Wireframe
+![Mobile Wireframe](https://github.com/william-chu/epicodus-week12/blob/master/Wireframes/MobileWireframesNew.png?raw=true)<br>
+##### Mobile Prototype
+![Mobile Prototype](https://github.com/william-chu/epicodus-week12/blob/master/Wireframes/Prototype.png?raw=true)<br>
+
+## Technologies Used
+
+* Sketch
+
+## Research & Brand Identity
+
+#### Brand Feel: modern, bright, welcoming
 Artwork taken from Fab.com
   * Geometric Design for clean modern lines matching interior design aesthetic
   * Bright Colors to evoke feeling of fresh and different compared to more corporate competitors
@@ -36,7 +57,7 @@ Artwork taken from Fab.com
 
 | Slogan | Messaging |
 | ------ | ------- |
-| "A Different Kind of Workspace." | Invitation to potential PDXPOD clientele that may be turned off by a majority makeup of tech workers |
+| "A Different Kind of Workspace" | Invitation to potential PDXPOD clientele that may be turned off by a majority makeup of tech workers |
 | "A Workspace for the Rest of Us" | Emphasizes PDXPOD's desire to cater to a diverse community of creators |
 | "Coworking for the Community" | PDXPOD wants to be part of the community to build loyalty amongst its members. This message can be used in conjunction with highlighting other local businesses or philanthropic activity that supports Portland, OR |
 
@@ -47,30 +68,6 @@ PDXPOD is trying to differentiate itself from WeWork and other coworking spaces.
 | ADX | Radius Art Studio |
 | --- | ----------------- |
 | Local coworking space for carpentry, metalworking and printing<br>https://adxportland.com/<br><br> ![ADX](https://github.com/william-chu/epicodus-week12/blob/master/Inspiration/ADXPortland.png?raw=true) | Communal art studio focused on ceramics, painting and printmaking<br>https://www.radiusstudio.org/<br><br> ![Radius Art Studio](https://github.com/william-chu/epicodus-week12/blob/master/Inspiration/RadiusArtStudio.png?raw=true) |
-
-## Setup/Instructions
-
-* Clone repository from https://github.com/william-chu/epicodus-week12
-* Open project folder > Wireframes > PDXPOD.sketch to view wireframes
-
-## Outline
-![Drafts](https://github.com/william-chu/epicodus-week12/blob/master/Wireframes/Draft.jpg?raw=true)
-
-## Sketch Screenshots
-
-##### Mobile Wireframe
-![Mobile Wireframe](https://github.com/william-chu/epicodus-week12/blob/master/Wireframes/MobileWireframesNew.png?raw=true)<br>
-##### Mobile Prototype
-![Mobile Prototype](https://github.com/william-chu/epicodus-week12/blob/master/Wireframes/Prototype.png?raw=true)<br>
-##### Homepage Wireframe
-![Homepage Wireframe](https://github.com/william-chu/epicodus-week12/blob/master/Wireframes/WireframeScreenshotsNew.png?raw=true)
-
-
-
-
-## Technologies Used
-
-* Sketch
 
 ## License
 
