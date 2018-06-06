@@ -8,7 +8,12 @@ $textColor-Dark: #585858;
 $navFont: 'Roboto Mono', sans-serif;
 $headerFont: 'Bodoni 72', serif;
 
-body, .main-container {
+body {
+  margin: 0;
+  height: 100vh;
+}
+
+.main-container {
   margin: 0;
   height: 100%;
   background: radial-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7) ), url("https://github.com/william-chu/epicodus-week12/blob/master/Inspiration/Entrance.png?raw=true ");
@@ -20,6 +25,7 @@ body, .main-container {
   background-size: cover;
   background-attachment: fixed;
 }
+
 
 .logo-primary, .modal-logo {
   display: block;
@@ -53,6 +59,7 @@ body, .main-container {
 .headline {
   color: $textColor-Light;
   font-family: $headerFont;
+  font-weight: lighter;
   font-size: 1.5rem;
   letter-spacing: 1px;
   text-shadow: 0 2px 4px black;
@@ -63,105 +70,14 @@ body, .main-container {
   text-align: center;
 }
 
-// Menu Modal
-
-  // Modal Background
-
-  .hide {
-    display:none;
-  }
-
-  .blur {
-    -webkit-filter: blur(5px);
-    -moz-filter: blur(5px);
-    -o-filter: blur(5px);
-    -ms-filter: blur(5px);
-    filter: blur(5px);
-  }
-
-  .modal {
-    display: none;
-    position: fixed;
-    z-index: 1;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    overflow: auto;
-    background-color: rgb(0,0,0);
-    background-color: rgba(0,0,0,0.8);
-  }
-
-  // Modal Content
-  .modal-content {
-    margin: 15% auto;
-    text-align: center;
-    width: 90%;
-  }
-
-  .modal-logo {
-    display: block;
-    margin: auto;
-  }
-
-  .modal-content ul {
-    padding: 0;
-  }
-
-  .modal-content li {
-    list-style-type: none;
-    margin: 20px 0;
-  }
-
-  .modal-content a {
-    text-decoration: none;
-    color: $textColor-Light;;
-    font-size: 1rem;
-  }
-
-  .modal-content a:hover {
-    opacity: .7;
-  }
-
-  .modal-content img {
-    width: 30px;
-    color: white;
-    float: left;
-  }
-
-  .modal-content input {
-    width: 200px;
-    background: white;
-    border-radius: 5px;
-    border: none;
-    color: $textColor-Dark;
-    font-size: 1rem;
-    font-family: $navFont;
-    padding: 10px;
-  }
-
-  .modal-content input:focus {
-    outline: none;
-  }
-
-  // The Close Button
-  .close-modal {
-    display: flex;
-    justify-content: flex-end;
-    margin: 50px 30px;
-  }
-
-  .close-modal:hover,
-  .close-modal:focus {
-    text-decoration: none;
-    cursor: pointer;
-  }
-
-// Modal End
 
 @media (min-width: 500px) {
   .logo-primary, .modal-logo {
     width: 150px;
+  }
+
+  .headline {
+    font-size: 2em;
   }
 }
 
@@ -173,6 +89,10 @@ body, .main-container {
     padding: 50px;
   }
 
+  .headline {
+    font-size: 2.5em;
+  }
+
   .modal-logo {
     width: 200px;
   }
@@ -181,3 +101,99 @@ body, .main-container {
     display: none;
   }
 }
+
+// Menu Modal
+
+// Modal Background
+
+.hide {
+  opacity: 0;
+}
+
+.blur {
+  -webkit-filter: blur(5px);
+  -moz-filter: blur(5px);
+  -o-filter: blur(5px);
+  -ms-filter: blur(5px);
+  filter: blur(5px);
+}
+
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgb(0,0,0);
+  background-color: rgba(0,0,0,0.8);
+}
+
+// Modal Content
+.modal-content {
+  margin: 15% auto;
+  text-align: center;
+  width: 90%;
+}
+
+.modal-logo {
+  display: block;
+  margin: auto;
+}
+
+.modal-content ul {
+  padding: 0;
+}
+
+.modal-content li {
+  list-style-type: none;
+  margin: 20px 0;
+}
+
+.modal-content a {
+  text-decoration: none;
+  color: $textColor-Light;;
+  font-size: 1rem;
+}
+
+.modal-content a:hover {
+  opacity: .7;
+}
+
+.modal-content img {
+  width: 30px;
+  color: white;
+  float: left;
+}
+
+.modal-content input {
+  width: 200px;
+  background: white;
+  border-radius: 5px;
+  border: none;
+  color: $textColor-Dark;
+  font-size: 1rem;
+  font-family: $navFont;
+  padding: 10px;
+}
+
+.modal-content input:focus {
+  outline: none;
+}
+
+// The Close Button
+.close-modal {
+  display: flex;
+  justify-content: flex-end;
+  margin: 50px 30px;
+}
+
+.close-modal:hover,
+.close-modal:focus {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+// Modal End

@@ -1,9 +1,4 @@
 import './input.scss';
-// import $ from 'jquery';
-//
-// $(document).ready(function() {
-//
-// });
 
 const menuModal = document.getElementById('menu-modal');
 const menuBtn = document.getElementById("menu-button");
@@ -28,24 +23,24 @@ function showMainBtnDisplay() {
 // When the user clicks on the button, open the modal
 menuBtn.onclick = function() {
   menuModal.style.display = "block";
-  mainContainer.className = "blur";
+  mainContainer.className = "main-container blur";
   menuBtn.className="main-head-button"
   hideMainBtnDisplay();
 }
 searchBtn.onclick = function() {
   searchModal.style.display = "block";
-  mainContainer.className = "blur";
+  mainContainer.className = "main-container blur";
   hideMainBtnDisplay();
 }
 
 // When the user clicks on <span> (x), close the modal
 closeModal[0].onclick = function() {
   menuModal.style.display = "none";
-  mainContainer.className = "";
+  mainContainer.className = "main-container";
   showMainBtnDisplay();
 }
 closeModal[1].onclick = function() {
   searchModal.style.display = "none";
-  mainContainer.className = "";
+  mainContainer.className = "main-container";
   showMainBtnDisplay();
 }
