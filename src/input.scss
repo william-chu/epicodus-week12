@@ -14,7 +14,7 @@ body, .main-container {
   background-attachment: fixed;
 }
 
-.logo-primary {
+.logo-primary, .modal-logo {
   display: block;
   margin: auto;
   width: 130px;
@@ -75,6 +75,11 @@ body, .main-container {
     width: 90%;
   }
 
+  .modal-logo {
+    display: block;
+    margin: auto;
+  }
+
   .modal-content ul {
     padding: 0;
   }
@@ -116,11 +121,9 @@ body, .main-container {
 
   // The Close Button
   .close-modal {
-    color: #aaa;
-    float: right;
-    padding: 10px 20px 0 0;
-    font-size: 28px;
-    font-weight: bold;
+    display: flex;
+    justify-content: flex-end;
+    margin: 50px 30px;
   }
 
   .close-modal:hover,
@@ -131,18 +134,21 @@ body, .main-container {
 
 // Modal End
 
-
-
 @media (min-width: 500px) {
-  .logo-primary {
+  .logo-primary, .modal-logo {
     width: 150px;
   }
 }
 
 @media (min-width: 900px) {
+
   .logo-primary {
-    display: inherit;
     margin: inherit;
+    width: 200px;
+    margin: 50px;
+  }
+
+  .modal-logo {
     width: 200px;
   }
 
