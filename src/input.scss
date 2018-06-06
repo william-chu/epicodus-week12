@@ -48,11 +48,36 @@ body {
   border: none;
 }
 
+.main-head-button:hover, .scroll-button:hover {
+  opacity: .7;
+}
+
 .main-head-button:focus {
   outline: none;
 }
 
 .navbar {
+  ul {
+    display: none;
+  }
+
+  li {
+    list-style-type: none;
+    margin: 20px 0;
+  }
+
+  a {
+    text-decoration: none;
+    color: $textColor-Light;;
+    font-size: 1rem;
+  }
+
+  a:hover {
+    opacity: .7;
+  }
+}
+
+.navbar, .navlist {
   font-family: $navFont;
 }
 
@@ -70,6 +95,16 @@ body {
   text-align: center;
 }
 
+.scroll-button {
+  display: flex;
+  justify-content: center;
+
+  img {
+    position: absolute;
+    bottom: 0;
+    padding-bottom: 50px;
+  }
+}
 
 @media (min-width: 500px) {
   .logo-primary, .modal-logo {
@@ -87,9 +122,11 @@ body {
     margin: inherit;
     width: 200px;
     padding: 50px;
+    float: left;
   }
 
   .headline {
+    clear: both;
     font-size: 2.5em;
   }
 
@@ -99,6 +136,17 @@ body {
 
   .main-head-button-flex {
     display: none;
+  }
+
+  .navbar ul {
+    display: flex;
+    justify-content: space-around;
+    margin: 0;
+    padding: 50px 50px 0 0;
+  }
+
+  .scroll-button img {
+    width: 70px;
   }
 }
 
@@ -136,51 +184,51 @@ body {
   margin: 15% auto;
   text-align: center;
   width: 90%;
+
+  ul {
+    padding: 0;
+  }
+
+  li {
+    list-style-type: none;
+    margin: 20px 0;
+  }
+
+  a {
+    text-decoration: none;
+    color: $textColor-Light;;
+    font-size: 1rem;
+  }
+
+  a:hover {
+    opacity: .7;
+  }
+
+  img {
+    width: 30px;
+    color: white;
+    float: left;
+  }
+
+  input {
+    width: 200px;
+    background: $textColor-Light;
+    border-radius: 5px;
+    border: none;
+    color: $textColor-Dark;
+    font-size: 1rem;
+    font-family: $navFont;
+    padding: 10px;
+  }
+
+  input:focus {
+    outline: none;
+  }
 }
 
 .modal-logo {
   display: block;
   margin: auto;
-}
-
-.modal-content ul {
-  padding: 0;
-}
-
-.modal-content li {
-  list-style-type: none;
-  margin: 20px 0;
-}
-
-.modal-content a {
-  text-decoration: none;
-  color: $textColor-Light;;
-  font-size: 1rem;
-}
-
-.modal-content a:hover {
-  opacity: .7;
-}
-
-.modal-content img {
-  width: 30px;
-  color: white;
-  float: left;
-}
-
-.modal-content input {
-  width: 200px;
-  background: white;
-  border-radius: 5px;
-  border: none;
-  color: $textColor-Dark;
-  font-size: 1rem;
-  font-family: $navFont;
-  padding: 10px;
-}
-
-.modal-content input:focus {
-  outline: none;
 }
 
 // The Close Button

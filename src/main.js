@@ -4,6 +4,7 @@ const menuModal = document.getElementById('menu-modal');
 const menuBtn = document.getElementById("menu-button");
 const searchModal = document.getElementById('search-modal');
 const searchBtn = document.getElementById('search-button');
+const searchInput = document.getElementById('search-input');
 const closeModal = document.getElementsByClassName("close-modal");
 const mainContainer = document.getElementById('main-container');
 const mainLogo = document.getElementById('logo-primary');
@@ -41,6 +42,7 @@ closeModal[0].onclick = function() {
 }
 closeModal[1].onclick = function() {
   searchModal.style.display = "none";
+  searchInput.value = "";
   mainContainer.className = "main-container";
   showMainBtnDisplay();
 }
