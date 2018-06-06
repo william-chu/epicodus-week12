@@ -29,7 +29,7 @@ Client requirements:
 ## Sketch Screenshots
 
 ##### Homepage Wireframe
-![Homepage Wireframe](https://github.com/william-chu/epicodus-week12/blob/master/Wireframes/WireframeScreenShotsNew.png?raw=true)
+![Homepage Wireframe](https://github.com/william-chu/epicodus-week12/blob/master/Wireframes/WireframeScreenshotsNew.png?raw=true)
 ##### Mobile Wireframe
 ![Mobile Wireframe](https://github.com/william-chu/epicodus-week12/blob/master/Wireframes/MobileWireframesNew.png?raw=true)<br>
 ##### Mobile Prototype
