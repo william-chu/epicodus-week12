@@ -2,7 +2,7 @@ $themeColor-Light: #f3e2c7;
 $themeColor-Dark: #b68d4c;
 $theme-font: verdana, sans-serif;
 
-body {
+body, .main-container {
   height: 100%;
   background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("https://github.com/william-chu/epicodus-week12/blob/master/Inspiration/Entrance.png?raw=true ");
   background-position: center;
@@ -20,7 +20,7 @@ body {
   width: 130px;
 }
 
-.top-button-flex {
+.main-head-button-flex {
   display: flex;
   justify-content: space-between;
   margin: 50px 30px;
@@ -29,6 +29,109 @@ body {
     cursor: pointer;
   }
 }
+
+.main-head-button {
+  background: none;
+  border: none;
+}
+
+.main-head-button:focus {
+  outline: none;
+}
+
+// Menu Modal
+
+  // Modal Background
+
+  .hide {
+    display:none;
+  }
+
+  .blur {
+    -webkit-filter: blur(5px);
+    -moz-filter: blur(5px);
+    -o-filter: blur(5px);
+    -ms-filter: blur(5px);
+    filter: blur(5px);
+  }
+
+  .modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0,0.8);
+  }
+
+  // Modal Content
+  .modal-content {
+    margin: 15% auto;
+    text-align: center;
+    width: 90%;
+  }
+
+  .modal-content ul {
+    padding: 0;
+  }
+
+  .modal-content li {
+    list-style-type: none;
+    margin: 20px 0;
+  }
+
+  .modal-content a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 1rem;
+  }
+
+  .modal-content a:hover {
+    opacity: .7;
+  }
+
+  .modal-content img {
+    width: 30px;
+    color: white;
+    float: left;
+  }
+
+  .modal-content input {
+    background: none;
+    border: none;
+    width: 100%;
+    border-bottom: 1px solid #fff;
+    font-size: 1rem;
+    color: #fff;
+    padding: 0 0 10px 10px;
+  }
+
+  .modal-content input:focus {
+    outline: none;
+  }
+
+  // The Close Button
+  .close-modal {
+    color: #aaa;
+    float: right;
+    padding: 10px 20px 0 0;
+    font-size: 28px;
+    font-weight: bold;
+  }
+
+  .close-modal:hover,
+  .close-modal:focus {
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+// Modal End
+
+
 
 @media (min-width: 500px) {
   .logo-primary {
@@ -43,7 +146,7 @@ body {
     width: 200px;
   }
 
-  .top-button-flex {
+  .main-head-button-flex {
     display: none;
   }
 }
