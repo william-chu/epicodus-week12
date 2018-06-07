@@ -7,6 +7,7 @@ $textColor-Light: rgba(255,255,255,0.8);
 $textColor-Dark: #585858;
 $navFont: 'Roboto Mono', sans-serif;
 $headerFont: 'Bodoni 72', serif;
+$opacity: .7;
 
 body {
   margin: 0;
@@ -37,7 +38,6 @@ body {
   display: flex;
   justify-content: space-between;
   padding: 50px 30px;
-
   img:hover {
     cursor: pointer;
   }
@@ -46,32 +46,27 @@ body {
 .main-head-button {
   background: none;
   border: none;
-}
-
-.main-head-button:hover, .scroll-button:hover {
-  opacity: .7;
-}
-
-.main-head-button:focus {
-  outline: none;
+  &:hover {
+    opacity: $opacity;
+  }
+  &:focus {
+    outline: none;
+  }
 }
 
 .navbar {
   ul {
     display: none;
   }
-
   li {
     list-style-type: none;
     margin: 20px 0;
   }
-
   a {
     text-decoration: none;
     color: $textColor-Light;;
     font-size: 1rem;
   }
-
   a:hover {
     opacity: .7;
   }
@@ -98,11 +93,13 @@ body {
 .scroll-button {
   display: flex;
   justify-content: center;
-
   img {
     position: absolute;
     bottom: 0;
     padding-bottom: 50px;
+  }
+  &:hover {
+    opacity: $opacity;
   }
 }
 
@@ -117,7 +114,6 @@ body {
 }
 
 @media (min-width: 900px) {
-
   .logo-primary {
     margin: inherit;
     width: 200px;
@@ -201,13 +197,7 @@ body {
   }
 
   a:hover {
-    opacity: .7;
-  }
-
-  img {
-    width: 30px;
-    color: white;
-    float: left;
+    opacity: $opacity;
   }
 
   input {
@@ -236,12 +226,11 @@ body {
   display: flex;
   justify-content: flex-end;
   margin: 50px 30px;
-}
 
-.close-modal:hover,
-.close-modal:focus {
-  text-decoration: none;
-  cursor: pointer;
+  &:hover, &:focus {
+    text-decoration: none;
+    cursor: pointer;
+  }
 }
 
 // Modal End
