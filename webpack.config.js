@@ -4,6 +4,7 @@ const CleanWebpackPlugin = require('clean-webpack-plugin');
 const UglifyJsPlugin = require('uglifyjs-webpack-plugin');
 const CopyWebpackPlugin = require('copy-webpack-plugin');
 const Dotenv = require('dotenv-webpack');
+const ExtractTextPlugin = require('extract-text-webpack-plugin');
 
 module.exports = {
   entry: './src/main.js',
@@ -26,7 +27,8 @@ module.exports = {
       template: './src/index.html',
       inject: 'body'
     }),
-    new Dotenv()
+    new Dotenv(),
+    new ExtractTextPlugin({filename:'app.bundle.css'}),
   ],
   module: {
     rules: [
@@ -40,11 +42,10 @@ module.exports = {
       },
       {
         test: /\.(s*)css$/,
-        use: [
-          'style-loader',
-          'css-loader',
-          'sass-loader'
-        ]
+        use: ExtractTextPlugin.extract({
+          fallback:'style-loader',
+          use:['css-loader','sass-loader'],
+        })
       },
       {
         test: /\.js$/,
