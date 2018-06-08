@@ -20,7 +20,8 @@ Client requirements:
 
 ## Setup/Instructions
 
-* Clone repository from https://github.com/william-chu/epicodus-week12
+* To view project, open site in browser https://william-chu.github.io/epicodus-week12-13/
+* To view project code, clone repository from https://github.com/william-chu/epicodus-week12
 * Open project folder > Wireframes > PDXPOD.sketch to view wireframes
 
 ## Outline
