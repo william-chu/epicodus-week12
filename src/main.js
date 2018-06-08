@@ -1,4 +1,4 @@
-import './input.scss';
+import './scss/primary.scss';
 
 const menuModal = document.getElementById('menu-modal');
 const menuBtn = document.getElementById("menu-button");

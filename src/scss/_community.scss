@@ -1,0 +1,72 @@
+@import 'variables';
+
+.green-overlay {
+  background: linear-gradient(to bottom, rgba(153,209,148,.4), rgba(91,164,103,.4));
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  z-index: -1;
+  top: 0;
+  left: 0;
+}
+
+.community-header {
+  width: 100%;
+  position: relative;
+
+  img {
+    width: 100%;
+  }
+
+  h2 {
+    font-family: $headerFont;
+    font-weight: $thinFont;
+    color: $textColor-Dark;
+    text-align: center;
+    background-color: $nearWhiteOpacity;
+    margin: 0;
+    padding: 10px 0;
+    position: absolute;
+    bottom: 4px;
+    width: 100%;
+    z-index: 1;
+  }
+}
+
+.community-body {
+  background: $bodyWhiteOpacity;
+  margin: 20px;
+  border-radius: 5px;
+  padding: 5px 15px;
+
+  h3 {
+    font-family: $headerFont;
+    font-weight: $thinFont;
+    color: $textColor-Dark;
+    text-align: center;
+  }
+
+  p {
+    font-family: $bodyFont;
+    font-weight: $thinFont;
+    color: $textColor-Dark;
+  }
+
+  img {
+    width: 70%;
+    display: block;
+    margin: auto;
+    max-width: 300px;
+  }
+}
+
+.organization-flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  img {
+    width: 40%;
+    max-width: 200px;
+  }
+}
