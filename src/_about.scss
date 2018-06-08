@@ -1,9 +1,50 @@
 @import 'variables';
 
+.blue-overlay {
+  background: linear-gradient(to bottom, rgba(148,189,209,.4), rgba(91,136,164,.4));
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.about-header {
+  width: 100%;
+  height: 50%;
+  display: flex;
+  flex-direction: column;
+
+  img {
+    width: 100%;
+    z-index: -1;
+  }
+}
+
 h2 {
   font-style: $headerFont;
   font-weight: 300;
   color: $textColor-Dark;
   text-align: center;
   background-color: $nearWhiteOpacity;
+  margin: 0;
+  padding: 10px 0;
+}
+
+footer {
+
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  padding: 25px;
+
+  p {
+    margin: 0;
+    text-align: center;
+    font-style: $bodyFont;
+  }
+
+  img {
+    width: 50px;
+  }
 }
