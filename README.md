@@ -38,6 +38,10 @@ Client requirements:
 ## Technologies Used
 
 * Sketch
+* CSS (Grid and Flexbox)
+* SASS
+* Node.js
+* Webpack
 
 ## Research & Brand Identity
 

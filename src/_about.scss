@@ -1,0 +1,9 @@
+@import 'variables';
+
+h2 {
+  font-style: $headerFont;
+  font-weight: 300;
+  color: $textColor-Dark;
+  text-align: center;
+  background-color: $nearWhiteOpacity;
+}
