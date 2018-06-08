@@ -20,7 +20,9 @@ module.exports = {
     new CopyWebpackPlugin([
       { from: 'src/img', to: 'img'},
       { from: 'src/about.html', to: ''},
-      { from: 'src/community.html', to: ''}
+      { from: 'src/tour.html', to: ''},
+      { from: 'src/community.html', to: ''},
+      { from: 'src/contact.html', to: ''}
     ]),
     new UglifyJsPlugin({ sourceMap: true }),
     new CleanWebpackPlugin(['dist']),

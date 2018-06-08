@@ -5,6 +5,7 @@ const menuBtn = document.getElementById("menu-button");
 const searchModal = document.getElementById('search-modal');
 const searchBtn = document.getElementById('search-button');
 const searchInput = document.getElementById('search-input');
+const scrollBtn = document.getElementById('scroll-button');
 const closeModal = document.getElementsByClassName("close-modal");
 const mainContainer = document.getElementById('main-container');
 const mainLogo = document.getElementById('logo-primary');
@@ -13,12 +14,14 @@ function hideMainBtnDisplay() {
   mainLogo.className = "logo-primary hide";
   menuBtn.className = "main-head-button hide";
   searchBtn.className = "main-head-button hide";
+  scrollBtn.className = "scroll-button hide";
 }
 
 function showMainBtnDisplay() {
   mainLogo.className = "logo-primary";
   menuBtn.className = "main-head-button";
   searchBtn.className = "main-head-button";
+  scrollBtn.className = "scroll-button";
 }
 
 // When the user clicks on the button, open the modal
