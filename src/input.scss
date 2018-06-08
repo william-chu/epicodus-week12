@@ -1,6 +1,10 @@
 @import 'variables';
 @import 'about';
 
+html {
+  height: 100%;
+}
+
 body {
   margin: 0;
   height: 100vh;
@@ -9,7 +13,7 @@ body {
 .main-container {
   margin: 0;
   height: 100%;
-  background: radial-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7) ), url("https://github.com/william-chu/epicodus-week12/blob/master/Inspiration/Entrance.png?raw=true ");
+  background: radial-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7) ), url("https://github.com/william-chu/epicodus-week12/blob/master/Inspiration/Entrance.png?raw=true");
   background-position: center;
   background-repeat: no-repeat;
   -webkit-background-size: cover;
