@@ -40,7 +40,7 @@ Client requirements:
 
 * Sketch
 * CSS (Grid and Flexbox)
-* SASS
+* Sass
 * Node.js
 * Webpack
 
